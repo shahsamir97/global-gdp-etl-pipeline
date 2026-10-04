@@ -1,0 +1,12 @@
+2026-Oct-05-01:00:55 : ETL Job Started
+2026-Oct-05-01:00:55 : Extraction Started
+2026-Oct-05-01:00:56 : Extraction Completed
+2026-Oct-05-01:00:56 : Transformation Started
+2026-Oct-05-01:00:56 : Transformation Completed
+2026-Oct-05-01:00:56 : Loading data to csv started
+2026-Oct-05-01:00:56 : Loading data to csv ended
+2026-Oct-05-01:00:56 : Loading data to database started
+2026-Oct-05-01:00:56 : Loading data to database ended
+2026-Oct-05-01:00:56 : Running Query on database
+2026-Oct-05-01:00:56 : Process Complete.
+2026-Oct-05-01:00:56 : ETL Job Finished
